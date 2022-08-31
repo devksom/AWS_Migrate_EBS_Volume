@@ -1,4 +1,4 @@
-MIGRATION OF EC2 INSTANCE
+MIGRATION OF EBS INSTANCE
 EC2 Instances have their data stored on EBS volumes which are persistent disks that provide fast storage for your data. They may be viewed as the hard disk of your server.
 One way of creating a copy of an EBS instance to another account is by following these simple steps
     1.	Create a snapshot of the EBS Volume
